@@ -1,0 +1,1 @@
+Elementor Deals - live site source of truth lives on gh-pages (static export).
